@@ -1,8 +1,4 @@
-
-
-
-<!--
-**# 💫 About Me:
+# 💫 About Me:
 ### 👩‍💻 About Me<br><br>🚀 I'm currently building Full-Stack Web Applications using React, Node.js, Express.js, and MongoDB.<br><br>🤝 I'm looking to collaborate on Open Source Projects, SaaS Applications, and Real-World Development Projects.<br><br>💡 I'm looking for help with System Design, Backend Scalability, and Industry-Level Software Development.<br><br>📚 I'm currently learning TypeScript, Next.js, Advanced React Patterns, and Data Structures & Algorithms.<br><br>💬 Ask me about React.js, JavaScript, Frontend Development, Git/GitHub, and Career Preparation.<br><br>🎯 2026 Goals:<br>- Solve 500+ DSA problems<br>- Contribute to Open Source<br>- Land a Software Development Internship<br>- Build Production-Ready Projects<br><br>⚡ Fun fact: I enjoy turning ideas into products and believe consistency beats talent.
 
 
@@ -28,4 +24,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=sangampandey21&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->sangampandey21/sangampandey21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
