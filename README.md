@@ -3,11 +3,11 @@
 
 Email Me 👉 ✉️ **sangampandey280@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration 
+- 🔭 **I’m currently working on:** Full-Stack Web Applications using React, Node.js, Express.js, and MongoDB.
+- 🌱 **I’m currently learning:**  TypeScript, Next.js, Advanced React Patterns, and Data Structures & Algorithms.
+- 👯 **I’m looking to collaborate on:** Open Source Projects, SaaS Applications, and Real-World Development Projects.
+- 🤔 **I’m looking for help with:** System Design, Backend Scalability, and Industry-Level Software Development.
+- 💬 **Ask me about:** Collaboration in projects.
 - 📫 **How to reach me:** sangampandey280@gmail.com
 - 😄 **Pronouns:** Sam
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
