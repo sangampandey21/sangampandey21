@@ -1,6 +1,16 @@
-# 💫 About Me:
-### 👩‍💻 About Me<br><br>🚀 I'm currently building Full-Stack Web Applications using React, Node.js, Express.js, and MongoDB.<br><br>🤝 I'm looking to collaborate on Open Source Projects, SaaS Applications, and Real-World Development Projects.<br><br>💡 I'm looking for help with System Design, Backend Scalability, and Industry-Level Software Development.<br><br>📚 I'm currently learning TypeScript, Next.js, Advanced React Patterns, and Data Structures & Algorithms.<br><br>💬 Ask me about React.js, JavaScript, Frontend Development, Git/GitHub, and Career Preparation.<br><br>🎯 2026 Goals:<br>- Solve 500+ DSA problems<br>- Contribute to Open Source<br>- Land a Software Development Internship<br>- Build Production-Ready Projects<br><br>⚡ Fun fact: I enjoy turning ideas into products and believe consistency beats talent.
+# 💫 Hi 👋, I'm Sangam
+**A passionate Developer || Full Stack Engineer || India**
 
+Email Me 👉 ✉️ **sangampandey280@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Enter your project info here
+- 🌱 **I’m currently learning:** Enter your tech here
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:** Collaboration 
+- 📫 **How to reach me:** sangampandey280@gmail.com
+- 😄 **Pronouns:** Sam
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/blue_birdieeee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sangam kumari ) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sangampandey280) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sangam Pandey) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26292129) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sangampandey21) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@Sangam-Pandey-the-animator) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sangampandey280@gmail.com) 
