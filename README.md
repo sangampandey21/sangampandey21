@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Sangam Pandey
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;React+%7C+Node.js+%7C+MongoDB;Java+Developer;Always+Learning+New+Things" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Things" alt="Typing SVG"/>
 
 <p>
   <a href="mailto:sangampandey280@gmail.com">
